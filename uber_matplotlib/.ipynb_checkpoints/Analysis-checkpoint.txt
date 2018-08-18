@@ -1,0 +1,4 @@
+The first thing that I took away from this was the fares are much higher in Rural areas. This is largely because these areas are 
+normally very spread out which would drive the fare price up.
+The second thing I noticed was that the driver volume and ride count was highest in the urban areas. This is due to proximity and high population of a Urban city geographic. 
+The third observation would be that there is a pretty substantial difference in the Urban rides to driver count. This shows that just because you're a driver, doesn't mean you will get as many riders as you may think. 
