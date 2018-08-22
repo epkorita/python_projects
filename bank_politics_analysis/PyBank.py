@@ -1,9 +1,6 @@
 
 # coding: utf-8
 
-# In[2]:
-
-
 import os
 import csv
 filepath = "/Users/parkerkorita/UTAUS201807DATA2/homework-instructions/03-Python-Instructions/Instructions/PyBank/Resources/budget_data.csv"
