@@ -1,0 +1,5 @@
+The first thing that I took away from this was that all the results were expected for the most part. Max temp was hotter closer to the equator, wind speed is lower towards higher latitudes, etc.
+
+The second thing I noticed was that the cloudiness was either 0 (non-exsistent) or in the range of 60 to 100 (prevelent), so it is either really cloudy or not at all most of the time.
+
+The third observation would be that Humidity gets more dense as the latitude goes up.
